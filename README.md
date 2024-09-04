@@ -65,7 +65,7 @@ Este modo permite al usuario decidir cuando desea recibir un dato de la balanza 
 - **Funcionamiento:** La balanza no hace nada hasta que el usuario solicite un dato a traves del comando `<M>`. Una vez puesto el comando, se empezaran a recoger datos de la balanza durante el intervalo de tiempo establecido, se promediarán esos datos y los informará.
 
 
-### 4. Modo Estable
+### 6. Modo Estable
 Este modo permite al usuario recibir la primera lectura estable que se detecte. No se vuelve a mandar nada excepto que el peso se estabilice nuevamente en otro valor distinto al anterior.
 
 - **Comandos para activar:** `<MODE:STB>`
